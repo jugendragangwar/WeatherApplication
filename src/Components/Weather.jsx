@@ -66,7 +66,7 @@ const Weather = () => {
   }
 
   useEffect(() => {
-    search("Bareilly");
+    search("");
   }, [])
 
   return (
