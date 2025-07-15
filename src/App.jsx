@@ -5,24 +5,6 @@ const App = () => {
   return (
     <div>
     <Weather/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     </div>
   )
 }
